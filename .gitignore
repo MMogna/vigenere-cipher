@@ -122,3 +122,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# misc
+tester.py
+test.sh
+env
+venv
+vcvenv
+notes.md
